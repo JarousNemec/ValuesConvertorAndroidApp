@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ValuesConvertor</string>
+
+    <string-array name="physicalQuantities">
+        <item>Distance</item>
+        <item>Area</item>
+        <item>Cubic</item>
+    </string-array>
+
+    <string-array name="distanceUnits">
+        <item>mm</item>
+        <item>cm</item>
+        <item>dm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+
+    <string-array name="areaUnits">
+        <item>mm2</item>
+        <item>cm2</item>
+        <item>dm2</item>
+        <item>m2</item>
+        <item>km2</item>
+    </string-array>
+
+    <string-array name="cubicUnits">
+        <item>mm3</item>
+        <item>cm3</item>
+        <item>dm3</item>
+        <item>m3</item>
+        <item>km3</item>
+    </string-array>
+
+</resources>
